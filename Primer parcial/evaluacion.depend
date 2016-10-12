@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1476206682 source:d:\principal\desktop\nueva carpeta\evaluacion\main.c
+	"defines.h"
+	"abonado.h"
+	"NuevaLlamada.h"
+	"reclamos.h"
+	"informar.h"
+
+1476053334 d:\principal\desktop\nueva carpeta\evaluacion\defines.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1476056081 d:\principal\desktop\nueva carpeta\evaluacion\abonado.h
+
+1476206773 source:d:\principal\desktop\nueva carpeta\evaluacion\abonado.c
+	"defines.h"
+	"abonado.h"
+	"NuevaLlamada.h"
+	"reclamos.h"
+	"informar.h"
+
+1476197303 d:\principal\desktop\nueva carpeta\evaluacion\nuevallamada.h
+
+1476207371 source:d:\principal\desktop\nueva carpeta\evaluacion\nuevallamada.c
+	"defines.h"
+	"abonado.h"
+	"NuevaLlamada.h"
+	"reclamos.h"
+	"informar.h"
+
+1476203387 d:\principal\desktop\nueva carpeta\evaluacion\reclamos.h
+
+1476200980 source:d:\principal\desktop\nueva carpeta\evaluacion\reclamos.c
+	"defines.h"
+	"abonado.h"
+	"NuevaLlamada.h"
+	"reclamos.h"
+	"informar.h"
+
+1476203115 d:\principal\desktop\nueva carpeta\evaluacion\informar.h
+
+1476204776 source:d:\principal\desktop\nueva carpeta\evaluacion\informar.c
+	"defines.h"
+	"abonado.h"
+	"NuevaLlamada.h"
+	"reclamos.h"
+	"informar.h"
+
