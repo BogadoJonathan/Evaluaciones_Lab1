@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1512683242 source:e:\rparcial2bogado\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"letra.h"
+
+1499555184 e:\rparcial2bogado\arraylist.h
+
+1512694216 e:\rparcial2bogado\letra.h
+
+1512693772 source:e:\rparcial2bogado\letra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"letra.h"
+
+1512692796 source:e:\rparcial2bogado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayList.h"
+	"letra.h"
+
